@@ -1,10 +1,9 @@
-.optin_form
+.optin_form{
     display: flex;
     align-items: center;
-    width: 100%
-    font-size: 14px
-    // @media screen and (max-width:rem-calc(breakpoints[md]))
-    //     font-size: 12px
+    width: 100%;
+    font-size: 14px;
+}
     
 
 #af-form-1196824715 .af-body .af-textWrap{width:98%;display:block;float:none;}
